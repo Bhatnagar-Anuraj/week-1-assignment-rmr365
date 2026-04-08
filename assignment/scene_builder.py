@@ -1,7 +1,7 @@
 """
 DIGM 131 - Assignment 1: Procedural Scene Builder
 ==================================================
-
+ 
 OBJECTIVE:
     Build a simple 3D scene in Maya using Python scripting.
     You will practice using maya.cmds to create and position geometry,
